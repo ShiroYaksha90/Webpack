@@ -42,7 +42,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo]()
+- [Live Demo](https://shiroyaksha90.github.io/Webpack/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,6 +107,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This [project](https://github.com/ShiroYaksha90/Webpack.git) is [MIT]() licensed.
+This [project](https://github.com/ShiroYaksha90/Webpack.git) is [MIT](https://github.com/ShiroYaksha90/Webpack/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
